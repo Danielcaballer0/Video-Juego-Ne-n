@@ -1,17 +1,15 @@
 # Video-Juego-Ne-n
 
-Claro, aquí tienes el contenido completo del `README.md` en formato Markdown listo para subir al repositorio:
 
----
 
-````markdown
+
 # 🎮 Neón – Videojuego Arcade Retro Ciberpunk
 
 **Neón** es un videojuego de plataformas con elementos shooter, desarrollado en **GameMaker: Studio 1.4** como proyecto académico. Inspirado en el estilo ciberpunk ochentero, combina narrativa interactiva, arte pixelado con efectos de neón y mecánicas clásicas arcade.
 
 ---
 
-## 📦 Contenido del Proyecto
+## Contenido del Proyecto
 
 Este repositorio contiene:
 
@@ -23,7 +21,7 @@ Este repositorio contiene:
 
 ---
 
-## 🚀 Cómo clonar el repositorio
+## Cómo clonar el repositorio
 
 ```bash
 git clone https://github.com/Danielcaballer0/Video-Juego-Ne-n.git
@@ -31,7 +29,7 @@ git clone https://github.com/Danielcaballer0/Video-Juego-Ne-n.git
 
 ---
 
-## 🛠️ Cómo abrir el proyecto
+## Cómo abrir el proyecto
 
 1. Descarga e instala **GameMaker: Studio 1.4** (versión compatible con `.gmx`).
 2. Extrae el archivo `Neon.gmx.zip`.
@@ -40,7 +38,7 @@ git clone https://github.com/Danielcaballer0/Video-Juego-Ne-n.git
 
 ---
 
-## ▶️ Cómo ejecutar el juego
+## Cómo ejecutar el juego
 
 Una vez abierto en GameMaker:
 
@@ -49,7 +47,7 @@ Una vez abierto en GameMaker:
 
 ---
 
-## 🧑‍💻 Roles y metodología
+## Roles y metodología
 
 Este proyecto fue desarrollado por un equipo multidisciplinario bajo la metodología **Scrum**, utilizando herramientas colaborativas como **Trello** y **GitHub**. Las ramas reflejan el trabajo distribuido por áreas:
 
@@ -61,7 +59,7 @@ Este proyecto fue desarrollado por un equipo multidisciplinario bajo la metodolo
 
 ---
 
-## 🧪 Características Técnicas
+## Características Técnicas
 
 * Motor: GameMaker Studio 1.4
 * Lenguaje: GML (GameMaker Language)
@@ -72,20 +70,20 @@ Este proyecto fue desarrollado por un equipo multidisciplinario bajo la metodolo
 
 ---
 
-## 📽️ Demo del juego
+## Demo del juego
 
 Puedes ver avances del juego en video en la siguiente lista de reproducción:
 🔗 *(añade aquí el enlace a tus videos en YouTube o Google Drive)*
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto es de uso académico y sin fines de lucro. Todos los recursos utilizados son libres de derechos o creados por el equipo de desarrollo.
 
 ---
 
-## 🤝 Créditos
+## Créditos
 
 **Equipo de desarrollo:**
 
@@ -96,5 +94,5 @@ Este proyecto es de uso académico y sin fines de lucro. Todos los recursos util
 * Camilo Rodríguez
 
 **Docente guía**: Sabina Edith Rada Mendoza
-**Universidad** – Santa Marta, Colombia – 2025
+**Universidad** – UCC, Santa Marta, Colombia – 2025
 
